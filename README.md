@@ -3,7 +3,7 @@
 ## Introduction 
 In this project, I execute an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
 
-I used o use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
+I used technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 
 ## Technology Used
